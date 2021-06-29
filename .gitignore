@@ -1,3 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\WeChartCompetition\code\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/data
+/data2
+.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
